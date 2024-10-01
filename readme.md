@@ -5,7 +5,7 @@
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Project Objectives](#project-objectives)
-  - [Case Study: Uyghur Forced Labor Scandal](#case-study-uyghur-forced-labor-scandal)
+  - [Case Study: Ouïghour Forced Labor Scandal](#case-study-ouïghour-forced-labor-scandal)
   - [Data Description](#data-description)
   - [Methodology](#methodology)
   - [Results](#results)
@@ -13,16 +13,16 @@
   - [How to Run the Analysis](#how-to-run-the-analysis)
 
 ## Introduction
-This project is a study conducted as part of the collaboration between Aix-Marseille School of Economics (AMSE) and Banque de France. The research focuses on evaluating the impact of a reputational shock on companies. Specifically, it examines the Uyghur forced labor scandal that surfaced in March 2020, which accused over eighty companies of using forced Uyghur labor.
+The research focuses on evaluating the impact of a reputational shock on companies. Specifically, it examines the Ouïghour forced labor scandal that surfaced in March 2020, which accused over eighty companies of using forced Ouïghour labor.
 
 ## Project Objectives
 The main goals of this study are:
-- To evaluate the impact of reputational shocks on the stock prices of companies implicated in the Uyghur forced labor scandal.
+- To evaluate the impact of reputational shocks on the stock prices of companies implicated in the Ouïghour forced labor scandal.
 - To analyze how companies' stock prices respond to such reputational shocks compared to their competitors.
 - To investigate how companies that committed to ceasing the use of forced labor were affected.
 
-## Case Study: Uyghur Forced Labor Scandal
-The case study revolves around the scandal in which numerous companies were accused of using Uyghur labor against their will. The analysis evaluates the effects of this reputational shock on the stock prices of these companies and their competitors. The study utilizes econometric evaluation methods, such as difference-in-differences and Student's t-tests, to measure the impact.
+## Case Study: Ouïghour Forced Labor Scandal
+The case study revolves around the scandal in which numerous companies were accused of using Ouïghour labor against their will. The analysis evaluates the effects of this reputational shock on the stock prices of these companies and their competitors. The study utilizes econometric evaluation methods, such as difference-in-differences and Student's t-tests, to measure the impact.
 
 ## Data Description
 The dataset used in this analysis includes:
@@ -50,7 +50,7 @@ The analysis employed two primary econometric techniques:
   - The method revealed mixed results, with no statistically significant impact across all firms, suggesting that market reactions varied.
 
 ## Conclusion
-The study indicates that reputational shocks, such as the Uyghur labor scandal, can have a detrimental effect on the stock prices of implicated companies, particularly in certain sectors. The findings emphasize the importance of maintaining a positive corporate reputation, especially in the age of social media where information spreads rapidly.
+The study indicates that reputational shocks, such as the Ouïghour labor scandal, can have a detrimental effect on the stock prices of implicated companies, particularly in certain sectors. The findings emphasize the importance of maintaining a positive corporate reputation, especially in the age of social media where information spreads rapidly.
 
 ## How to Run the Analysis
 1. Clone this repository to your local machine.
